@@ -1,0 +1,4 @@
+C:\Adriano\LESI\1ano\2\LP2\trabalhoLP2_14815_14906_Fase2\Presentation\obj\Debug\netcoreapp3.1\Presentation.csprojAssemblyReference.cache
+C:\Adriano\LESI\1ano\2\LP2\trabalhoLP2_14815_14906_Fase2\Presentation\obj\Debug\netcoreapp3.1\Presentation.csproj.CoreCompileInputs.cache
+C:\Adriano\LESI\1ano\2\LP2\trabalhoLP2_14815_14906_Fase2\Presentation\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfoInputs.cache
+C:\Adriano\LESI\1ano\2\LP2\trabalhoLP2_14815_14906_Fase2\Presentation\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfo.cs
